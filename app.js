@@ -40,6 +40,3 @@ if (temptype == 1) {
 } else {
     alert("please choose one of the options.")
 }
-    
-
-
